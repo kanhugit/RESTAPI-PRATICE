@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+	<addr>
+		<city>Hyd</city>
+		<country>India</country>
+		<state>Telengana</state>
+	</addr>
+	<email>beherakanha029@gmail.com</email>
+	<gender>male</gender>
+	<id>101</id>
+	<name>kanha</name>
+</person>
