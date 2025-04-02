@@ -1,0 +1,12 @@
+{
+	"name": "Raju",
+	"form": "Hyd",
+	"to": "Odisha",
+	"gender": "Male",
+	"addr": {
+		"city": "Hyd",
+		"state": "Odisha",
+		"country": "India",
+		"addr": null
+	}
+}
