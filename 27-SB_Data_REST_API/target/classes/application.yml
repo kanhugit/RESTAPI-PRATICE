@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: 27-SB_Data_REST_API
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: Kanha@123
+    url: jdbc:mysql://localhost:3306/sbms27
+    username: root
+  jpa:
+    hibernate:
+     ddl-auto: update
+    show-sql: true 
